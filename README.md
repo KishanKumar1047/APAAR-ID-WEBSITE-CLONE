@@ -40,6 +40,7 @@ To add screenshots:
 3. Add them to the README using the following format:
    ```md
    ![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.png)
 ![About Page](screenshots/page2.png)
 
    ```
